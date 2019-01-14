@@ -4,7 +4,9 @@ title:  "Geoffrey Hinton Interview Reading List"
 date:   2018-08-22 11:31:47 -0500
 categories: reading list
 ---
-Below is an incomplete reading list of some of the papers mentioned in the deeplearning.ai interview with Geoffrey Hinton. I’m still missing references for Yoshua Bengio’s work on embeddings for words on English text and Yee Whye Teh’s work on training multiple RBM layers as a single model. I’ll add these if I can find them.
+Below is an incomplete reading list of some of the papers mentioned in the deeplearning.ai interview with Geoffrey Hinton. I’m still missing references for Yoshua Bengio’s work on embeddings for words in English text and Yee Whye Teh’s work on training multiple RBM layers as a single model. I’ll add these if I can find them.
+
+*Update: Mnay thanks to Aleksandar Trifunovic on the coursera forums for providing links to the missing references. I'm still uncertain which work Geoffrey Hinton was referring to in relation to Yoshua Bengio’s work on embeddings for words in English text from the 90s.  Aleksandar's reference is from 2015 and I have found another from 2003, I have included both these below.*
 
 Karl Lashley’s experiments - [In Search Of The Engram. Lashley (1950)][Lashley1950]
 
@@ -18,15 +20,21 @@ Work with Terry Sejnowski on Boltzmann machines:
 
  - [Boltzmann Machines: Constraint satisfaction networks that learn. Hinton, Sejnowski and Ackley (1984)][Hinton1984]
 
- - [A learning algorithm for Boltzmann machines. Ackley, Hinton, Sejnowski (1985)][Ackley1985]
+ - [A learning algorithm for Boltzmann machines. Ackley, Hinton and Sejnowski (1985)][Ackley1985]
 
  - [Learning and relearning in Boltzmann machines. Hinton and Sejnowski (1986)][Hinton1986]
 
  - [Separating figure from ground using a Boltzmann machine. Sejnowski and Hinton (1987)][Sejnowski1987]
 
+Yoshua Bengio’s work on embeddings for words in English text:
+ - [Learning to understand phrases by embedding the dictionary. Hill et al. (2015)][Hill2015]
+ - [A Neural Probabilistic Language Model. Bengio et al. (2003)][Bengio2003]
+ 
 Restricted Boltzmann Machines and Netflix - [Restricted Boltzmann Machines for Collaborative Filtering. Salakhutdinov, Mnih and Hinton (2007)][Salakhutdinov2007]
 
 Another Restricted Boltzmann Machine application - [Phone Recognition using Restricted Boltzmann Machines. Mohamed and Hinton (2010)][Mohamed2010]
+
+Training Deep RBMs as a single Model - [Learning to Understand Phrases by Embedding the Dictionary. Hinton, Osindero and Teh (2006)][Hinton2006]
 
 Approximate Inference in Deep Belief Nets - [Variational Learning in Nonlinear Gaussian Belief Networks. Frey and Hinton (1998)][Frey1998]
 
@@ -52,8 +60,11 @@ Capsule Networks - [Dynamic Routing between Capsules. Sabour, Frosst and Hinton 
 [Ackley1985]: http://www.cs.toronto.edu/~hinton/absps/cogscibm.pdf
 [Hinton1986]: http://www.cs.toronto.edu/~hinton/absps/pdp7.pdf
 [Sejnowski1987]: http://www.cs.toronto.edu/~hinton/absps/arbibfigground.pdf
+[Hill2015]: https://arxiv.org/pdf/1504.00548.pdf
+[Bengio2003]: http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 [Salakhutdinov2007]: http://www.cs.toronto.edu/~fritz/absps/netflix.pdf
 [Mohamed2010]: http://www.cs.toronto.edu/~hinton/absps/icassp10.pdf
+[Hinton2006]: http://www.cs.toronto.edu/~fritz/absps/ncfast.pdf
 [Frey1998]: http://www.cs.toronto.edu/~fritz/absps/nlgbn.pdf
 [Hinton1993]: http://www.cs.toronto.edu/~hinton/absps/colt93.pdf
 [Srivastava2014]: http://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
