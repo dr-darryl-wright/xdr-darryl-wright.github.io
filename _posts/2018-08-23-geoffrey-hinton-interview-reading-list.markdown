@@ -54,7 +54,7 @@ Fast weights - [Using Fast Weights to Attend to the Recent Past. Ba et al. (2016
 
 Capsule Networks - [Dynamic Routing between Capsules. Sabour, Frosst and Hinton (2017)][Sabour2017]
 
-[Lashley1950]: https://github.com/dr-darryl-wright/Lashley_1950/blob/master/In_Search_of_the_Engram_Lashley_1950.pdf 
+[Lashley1950]: https://github.com/dr-darryl-wright/Lashley_1950/ 
 [Berlot2017]: http://www.diedrichsenlab.org/pubs/Berlot_CurrentOpinion_2017.pdf
 [Rumelhart1986]: https://www.nature.com/articles/323533a0.pdf
 [Fahlman1983]: http://www.cs.toronto.edu/~hinton/absps/fahlmanBM.pdf
