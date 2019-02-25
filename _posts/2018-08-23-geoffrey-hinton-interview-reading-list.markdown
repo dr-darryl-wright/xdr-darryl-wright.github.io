@@ -6,7 +6,9 @@ categories: reading list
 ---
 Below is an incomplete reading list of some of the papers mentioned in the deeplearning.ai interview with Geoffrey Hinton. I’m still missing references for Yoshua Bengio’s work on embeddings for words in English text and Yee Whye Teh’s work on training multiple RBM layers as a single model. I’ll add these if I can find them.
 
-*Update: Mnay thanks to Aleksandar Trifunovic on the coursera forums for providing links to the missing references. I'm still uncertain which work Geoffrey Hinton was referring to in relation to Yoshua Bengio’s work on embeddings for words in English text from the 90s.  Aleksandar's reference is from 2015 and I have found another from 2003, I have included both these below.*
+*Update: Many thanks to Aleksandar Trifunovic on the coursera forums for providing links to the missing references. I'm still uncertain which work Geoffrey Hinton was referring to in relation to Yoshua Bengio’s work on embeddings for words in English text from the 90s.  Aleksandar's reference is from 2015 and I have found another from 2003, I have included both these below.*
+
+*Update 2: Thanks to Arun Mishra for getting in touch and pointing out the broken link to Karl Lashley's 1950 paper and providing a new link to the paper on SCRIBD.  This required signing up for a free trial and entering payment details.  Instead I have added a copy to a repo on my github account.*
 
 Karl Lashley’s experiments - [In Search Of The Engram. Lashley (1950)][Lashley1950]
 
@@ -52,7 +54,7 @@ Fast weights - [Using Fast Weights to Attend to the Recent Past. Ba et al. (2016
 
 Capsule Networks - [Dynamic Routing between Capsules. Sabour, Frosst and Hinton (2017)][Sabour2017]
 
-[Lashley1950]: http://gureckislab.org/courses/fall13/learnmem/papers/Lashley1950.pdf 
+[Lashley1950]: https://github.com/dr-darryl-wright/Lashley_1950/blob/master/In_Search_of_the_Engram_Lashley_1950.pdf 
 [Berlot2017]: http://www.diedrichsenlab.org/pubs/Berlot_CurrentOpinion_2017.pdf
 [Rumelhart1986]: https://www.nature.com/articles/323533a0.pdf
 [Fahlman1983]: http://www.cs.toronto.edu/~hinton/absps/fahlmanBM.pdf
