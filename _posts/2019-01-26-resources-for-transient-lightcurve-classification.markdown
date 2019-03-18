@@ -9,6 +9,7 @@ mathjax: true
 Data Sets:
  - [Supernova Photometric Classification Challenge (original SPCC)][origSPCC]
  - [PLAsTiCC Astronomical Classification (Kaggle)][plasticc2018]
+ - [SuperNNova data set][SuperNNovaSimulations]
  
 Papers:
  - [Lightcurve Classification in Massive Variability Surveys II:
@@ -115,3 +116,4 @@ Transients towards the Large Magellanic Cloud.][Belokurov04]
 [Naul17github]: https://github.com/bnaul/IrregularTimeSeriesAutoencoderPaper
 [origSPCC]: http://www.hep.anl.gov/SNchallenge/
 [plasticc2018]: https://www.kaggle.com/c/PLAsTiCC-2018/data
+[SuperNNovaSimulations]: http://www.mso.anu.edu.au/~anais/supernnova_data/
