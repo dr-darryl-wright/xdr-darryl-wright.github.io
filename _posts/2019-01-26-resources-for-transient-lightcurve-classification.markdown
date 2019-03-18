@@ -2,14 +2,19 @@
 layout: post
 title:  "Resources for transient lightcurve classification."
 date:   2019-01-26 20:18:57 
-categories: reading list
+categories: resources
 mathjax: true
 ---
 
+Data Sets:
+ - [Supernova Photometric Classification Challenge (original SPCC)][origSPCC]
+ - [PLAsTiCC Astronomical Classification (Kaggle)][plasticc2018]
+ 
 Papers:
  - [Lightcurve Classification in Massive Variability Surveys II:
 Transients towards the Large Magellanic Cloud.][Belokurov04]
- - [On machine-learned classification of variable stars with sparse and noisy time-series data][Richards11]
+ - [On machine-learned classification of variable stars with sparse and noisy time-series data][Richards11a]
+ - [Semi-supervised Learning for Photometric Supernova Classification][Richards11b]
  - [Quantifying quasar variability as part of a general approach to classifying continuously varying sources][Kozlowski09]
  - [Random forest automated supervised classification of Hipparcos periodic variable stars][Dubath11]
  - [Finding outlier light curves in catalogues of periodic variable stars][Protopapas06]
@@ -38,6 +43,7 @@ Transients towards the Large Magellanic Cloud.][Belokurov04]
  - [Photometric Supernova Classification With Machine Learning][Lochner16]
  - [Machine Learning Techniques for Stellar Light Curve Classification][Hinners17]
  - [Deep Recurrent Neural Networks for Supernovae Classification][Charnock16]
+   - [code][Charnock16github]
  - [The weirdest SDSS galaxies: results from an outlier detection algorithm][Baron16]
  - [Measuring Dark Energy Properties with Photometrically Classified Pan-STARRS Supernovae. II. Cosmological Parameters][Jones18]
  - [Photometric classification of type Ia supernovae in the SuperNova Legacy Survey with supervised learning][Moeller16]
@@ -45,15 +51,21 @@ Transients towards the Large Magellanic Cloud.][Belokurov04]
  - [Science-Driven Optimization of the LSST Observing Strategy][Marshall17]
  - [Pelican: deep architecture for the light curve analysis][Pasquet19]
  - [STACCATO: a novel solution to supernova photometric classification with biased training sets][Revsbech17]
+   - [code][Revsbech17github]
  - [Single-epoch supernova classification with deep convolutional neural networks][Kimura17]
  - [Classification of Multiwavelength Transients with Machine Learning][Sooknunan18]
  - [Improved Photometric Classification of Supernovae using Deep Learning][Moss18]
  - [A CNN adapted to time series for the classification of Supernovae][Brunel19]
+   - [code][Brunel19github]
  - [Photometric classification and redshift estimation of LSST Supernovae][Dai18]
  - [SuperNNova: an open-source framework for Bayesian, Neural Network based supernova classification][Moeller19]
+   - [code][Moeller19github]
+ - [A recurrent neural network for classification of unevenly sampled variable stars][Naul17]
+   - [code][Naul17github]
  
 [Belokurov04]: https://arxiv.org/pdf/astro-ph/0404232.pdf
-[Richards11]: https://iopscience.iop.org/article/10.1088/0004-637X/733/1/10/meta
+[Richards11a]: https://iopscience.iop.org/article/10.1088/0004-637X/733/1/10/meta
+[Richards11b]: https://arxiv.org/pdf/1103.6034.pdf 
 [Kozlowski09]: http://iopscience.iop.org/article/10.1088/0004-637X/708/2/927/meta
 [Dubath11]: https://academic.oup.com/mnras/article-abstract/414/3/2602/1044210
 [Protopapas06]: https://academic.oup.com/mnras/article-abstract/369/2/677/3101511
@@ -82,16 +94,24 @@ Transients towards the Large Magellanic Cloud.][Belokurov04]
 [Lochner16]: https://arxiv.org/pdf/1603.00882
 [Hinners17]: https://arxiv.org/pdf/1710.06804
 [Charnock16]: https://arxiv.org/abs/1606.07442
+[Charnock16github]: https://github.com/adammoss/supernovae
 [Baron16]: https://academic.oup.com/mnras/article-abstract/465/4/4530/2568826
 [Jones18]: http://iopscience.iop.org/article/10.3847/1538-4357/aab6b1/meta
 [Moeller16]: http://iopscience.iop.org/article/10.1088/1475-7516/2016/12/008/meta
 [Villar17]: http://iopscience.iop.org/article/10.3847/1538-4357/aa8fcb/meta
 [Marshall17]: https://arxiv.org/pdf/1708.04058.pdf
 [Pasquet19]: https://arxiv.org/abs/1901.01298
-[Revsbech17]: https://academic.oup.com/mnras/article-abstract/473/3/3969/4411815 
+[Revsbech17]: https://academic.oup.com/mnras/article-abstract/473/3/3969/4411815
+[Revsbech17github]: https://github.com/rtrotta/STACCATO 
 [Kimura17]: https://arxiv.org/abs/1711.11526
 [Sooknunan18]: https://arxiv.org/abs/1811.08446
 [Moss18]: https://arxiv.org/abs/1810.06441
 [Brunel19]: https://arxiv.org/abs/1901.00461
+[Brunel19github]: https://github.com/Anzzy30/SupernovaeClassification
 [Dai18]: https://academic.oup.com/mnras/article-abstract/477/3/4142/4978464
 [Moeller19]: https://arxiv.org/abs/1901.06384
+[Moeller19github]: https://github.com/tdeboissiere/SuperNNova
+[Naul17]: https://arxiv.org/pdf/1711.10609.pdf
+[Naul17github]: https://github.com/bnaul/IrregularTimeSeriesAutoencoderPaper
+[origSPCC]: http://www.hep.anl.gov/SNchallenge/
+[plasticc2018]: https://www.kaggle.com/c/PLAsTiCC-2018/data
