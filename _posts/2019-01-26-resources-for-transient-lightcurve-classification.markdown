@@ -86,7 +86,8 @@ Transients towards the Large Magellanic Cloud.][Belokurov04]
 [Jones18]: http://iopscience.iop.org/article/10.3847/1538-4357/aab6b1/meta
 [Moeller16]: http://iopscience.iop.org/article/10.1088/1475-7516/2016/12/008/meta
 [Villar17]: http://iopscience.iop.org/article/10.3847/1538-4357/aa8fcb/meta
-[[Pasquet19]: https://arxiv.org/abs/1901.01298
+[Marshall17]: https://arxiv.org/pdf/1708.04058.pdf
+[Pasquet19]: https://arxiv.org/abs/1901.01298
 [Revsbech17]: https://academic.oup.com/mnras/article-abstract/473/3/3969/4411815 
 [Kimura17]: https://arxiv.org/abs/1711.11526
 [Sooknunan18]: https://arxiv.org/abs/1811.08446
