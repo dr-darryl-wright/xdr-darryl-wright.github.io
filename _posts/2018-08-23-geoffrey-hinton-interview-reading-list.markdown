@@ -4,7 +4,7 @@ title:  "Geoffrey Hinton Interview Reading List"
 date:   2018-08-22 11:31:47 -0500
 categories: reading list
 ---
-Below is an incomplete reading list of some of the papers mentioned in the deeplearning.ai interview with Geoffrey Hinton. I’m still missing references for Yoshua Bengio’s work on embeddings for words in English text and Yee Whye Teh’s work on training multiple RBM layers as a single model. I’ll add these if I can find them.
+Below is an incomplete reading list of some of the papers mentioned in the [deeplearning.ai interview with Geoffrey Hinton][video]. I’m still missing references for Yoshua Bengio’s work on embeddings for words in English text and Yee Whye Teh’s work on training multiple RBM layers as a single model. I’ll add these if I can find them.
 
 *Update: Many thanks to Aleksandar Trifunovic on the coursera forums for providing links to the missing references. I'm still uncertain which work Geoffrey Hinton was referring to in relation to Yoshua Bengio’s work on embeddings for words in English text from the 90s.  Aleksandar's reference is from 2015 and I have found another from 2003, I have included both these below.*
 
@@ -75,3 +75,4 @@ Capsule Networks - [Dynamic Routing between Capsules. Sabour, Frosst and Hinton 
 [Song2000]: http://www.columbia.edu/cu/neurotheory/Larry/SongNatNeuro00.pdf
 [Ba2016]: https://arxiv.org/pdf/1610.06258.pdf
 [Sabour2017]: https://arxiv.org/pdf/1710.09829.pdf
+[video]: https://www.youtube.com/watch?v=-eyhCTvrEtE
