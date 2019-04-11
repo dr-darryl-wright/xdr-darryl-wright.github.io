@@ -99,7 +99,7 @@ $$\textbf{W}$$.  An
 increase in the contribution of one feature to the representation for a given training example will
 lead to a decrease in the contribution from all other features.
 Similarly if the contribution from one feature is decreased all others
-are increased. We show this effect in Fig. \ref{fig:SF}, where the
+are increased. We show this effect in Figure. 1, where the
 initial cost calculated from the circular points is minimised when
 individual training examples can be represented by a single active feature
 (blue and yellow squares i.e. when they lie on an axis) or a minimal
