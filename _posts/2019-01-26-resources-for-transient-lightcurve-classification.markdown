@@ -11,6 +11,9 @@ Data Sets:
  - [PLAsTiCC Astronomical Classification (Kaggle)][plasticc2018]
  - [SuperNNova data set][SuperNNovaSimulations]
  
+Resources:
+ - [RAPID (Real-time Automated Photometric IDentification)][rapid]
+ 
 Papers:
  - [Lightcurve Classification in Massive Variability Surveys II:
 Transients towards the Large Magellanic Cloud.][Belokurov04]
@@ -117,3 +120,4 @@ Transients towards the Large Magellanic Cloud.][Belokurov04]
 [origSPCC]: http://www.hep.anl.gov/SNchallenge/
 [plasticc2018]: https://www.kaggle.com/c/PLAsTiCC-2018/data
 [SuperNNovaSimulations]: http://www.mso.anu.edu.au/~anais/supernnova_data/
+[rapid]: https://astrorapid.readthedocs.io/en/latest/
