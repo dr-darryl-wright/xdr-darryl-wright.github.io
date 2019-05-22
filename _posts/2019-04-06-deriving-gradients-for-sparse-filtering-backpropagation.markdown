@@ -112,7 +112,7 @@ on average across all examples and each example is forced to be
 represented by only a few active (non-zero) features, then we can expect that
 each feature will only be active for a few examples. 
 
-![Figure 1.](/images/SF_visual.jpg){: .center-image}
+![Figure 1.](/images/deriving-gradients-for-sparse-filtering-backpropagation/SF_visual.jpg){: .center-image}
 *Figure 1. Optimising for population sparsity. The circles show the initial feature representation of three training examples. The size of the points shows the relative contribution of each example to the cost. After optimising for population sparsity, sparse filtering has learned features that can uniquely represent the pink and green examples. Due to enforcing high dispersal the third example must be represented by a minimal combination of both learned features, where the activation of each is equal. This incurs a higher cost compared to the others. This demonstrates how the learned features are sparsely distributed over the surface of the $$\ell_2$$-ball.*
 
 To minimise Equation \ref{eq:four} we rely on the backpropagation idea (see above), where the normalisation steps are treated as
