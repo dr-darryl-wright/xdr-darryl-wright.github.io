@@ -7,7 +7,7 @@ mathjax: true
 ---
 
 ![Figure 1.](/images/building-an-easily-sharable-interface-to-gather-labels-from-humans/project.png){: .center-image}
-*Figure 1. The home page of the interface we will build in this tutorial. See how pretty it looks! Oh and no coding required!... and its free! Check it out here: [https://www.zooniverse.org/projects/city-of-peacetopia-ornithophobia-project](https://www.zooniverse.org/projects/dwright04/city-of-peacetopia-ornithophobia-project)*
+*Figure 1. The home page of the interface we will build in this tutorial.  Check it out here: [https://www.zooniverse.org/projects/city-of-peacetopia-ornithophobia-project](https://www.zooniverse.org/projects/dwright04/city-of-peacetopia-ornithophobia-project)*
 
 
 ## Introduction ##
