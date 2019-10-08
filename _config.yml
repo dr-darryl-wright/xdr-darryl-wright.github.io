@@ -17,8 +17,8 @@ title: Darryl Wright
 email: dr.darryl.wright@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a place for me to keep track of useful resources and experiments in machine learning and artificial intelligence more generally.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "dr-darryl-wright" # the subpath of your site, e.g. /blog
+url: "https://github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  dr-darryl-wright
 linkedin_username:  dr-darryl-wright
