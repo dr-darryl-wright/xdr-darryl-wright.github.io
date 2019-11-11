@@ -10,6 +10,7 @@ Below is an incomplete reading list of some of the papers mentioned in the [deep
 
 *Update 2: Thanks to Arun Mishra for getting in touch and pointing out the broken link to Karl Lashley's 1950 paper and providing a new link to the paper on SCRIBD.  This required signing up for a free trial and entering payment details.  Instead I have added a copy to a repo on my github account.*
 
+If you find this reading list useful, then you might also enjoy the list I have put together for Yoshua Bengio’s interview too.  You can access that reading list [here][BengiosReadingList].
 Karl Lashley’s experiments - [In Search Of The Engram. Lashley (1950)][Lashley1950]
 
 A modern review of the above - [In search of the engram, 2017. Berlot, Popp and Diedrichsen (2017)][Berlot2017]
@@ -76,3 +77,4 @@ Capsule Networks - [Dynamic Routing between Capsules. Sabour, Frosst and Hinton 
 [Ba2016]: https://arxiv.org/pdf/1610.06258.pdf
 [Sabour2017]: https://arxiv.org/pdf/1710.09829.pdf
 [video]: https://www.youtube.com/watch?v=-eyhCTvrEtE
+[BengioReadingList]: https://dr-darryl-wright.github.io/reading/list/2019/03/21/yoshua-bengio-interview-reading-list.html
