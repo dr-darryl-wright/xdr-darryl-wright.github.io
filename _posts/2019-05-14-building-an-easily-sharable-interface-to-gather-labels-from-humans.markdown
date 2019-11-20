@@ -3,6 +3,7 @@ layout: post
 title:  "Building an easily sharable interface to gather labels from humans."
 date:   2019-05-14 11:31:47 -0500
 categories: tutorial
+featured-image: /building-an-easily-sharable-interface-to-gather-labels-from-humans/project.png
 mathjax: true
 ---
 

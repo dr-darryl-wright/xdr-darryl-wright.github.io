@@ -3,6 +3,7 @@ layout: post
 title:  "Deriving Sparse Filtering Gradients with the Backpropagation Idea"
 date:   2019-04-06 11:31:47 -0500
 categories: derivations
+featured-image: /deriving-gradients-for-sparse-filtering-backpropagation/SF_visual.jpg
 mathjax: true
 ---
 During my PhD I used [Sparse Filtering][ngiam11] as part of a classifier for the [Pan-STARRS1][ps1]
