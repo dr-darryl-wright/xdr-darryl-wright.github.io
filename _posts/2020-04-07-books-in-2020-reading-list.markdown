@@ -20,3 +20,7 @@ categories: books
 [The Art of Loving - Erich Fromm](https://www.abebooks.com/servlet/SearchResults?an=Erich%20Fromm&bi=0&bx=off&cm_sp=SearchF-_-Advtab1-_-Results&ds=30&recentlyadded=all&sortby=17&sts=t&tn=The%20Art%20of%20Loving)
 
 [What Money Can't Buy: The Moral Limits of Markets - Michael J. Sandel](https://www.abebooks.com/servlet/SearchResults?an=Michael%20J.%20Sandel&bi=0&bx=off&cm_sp=SearchF-_-Advtab1-_-Results&ds=30&recentlyadded=all&sortby=17&sts=t&tn=What%20Money%20Can%27t%20Buy%3A%20The%20Moral%20Limits%20of%20Markets)
+
+[The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&kn=The%20annotated%20Turing&sts=t)
+
+[Norwegian Wood - Haruki Murakami](https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-TopNavISS-_-Results&kn=norwegian%20wood%20haruki%20murakami&sts=t)
