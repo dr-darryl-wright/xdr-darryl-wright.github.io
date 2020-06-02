@@ -13,15 +13,15 @@ mathjax: true
 
 ## Introduction ##
 
-At some point in any machine learning project humans will need to look at the data.  Maybe you need to gather class labels or bounding boxes for supervised learning to begin with.  Or perhaps you need to check your dev set for examples with incorrect labels.  It could be that you want to measure the human-level performance on your test set as an estimate for the optimal (or Bayes) error rate.
+At some point in any machine learning project humans will need to look at the data.  Maybe you need to gather class labels or bounding boxes for supervised learning to begin with.  Or perhaps you need to check your dev set for examples for incorrect labels.  It could be that you want to measure the human-level performance on your test set as an estimate for the optimal (or Bayes) error rate.
 
-This post will demonstrate how you can easily build a web-based interface, that is easily customisable using the [Zooniverse Project Builder](https://www.zooniverse.org/lab).  The figure above shows the home page for the project I built as an example for this post.  The project you build will have a shareable url that will allow your friends, family, classmates or co-workers ( or all of the above) to access your project in case you need to crowdsource some help.  Here's the link to my example project:
+This post will demonstrate how you can easily build a web-based interface, that is easily customisable using the [Zooniverse Project Builder](https://www.zooniverse.org/lab).  The figure above shows the home page for the project I built as an example for this post.  The project you build will have a shareable url that will allow your friends, family, classmates or co-workers ( or all of the above) to access your project in case you need to crowdsource some help.  Here's the link to the example project:
 
 [https://www.zooniverse.org/projects/dwright04/city-of-peacetopia-ornithophobia-project](https://www.zooniverse.org/projects/dwright04/city-of-peacetopia-ornithophobia-project)
 
 This project is designed to be a template. The idea for this particular example project was motivated by the third [deeplearing.ai course on coursera, Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning). In particular, the idea came from the Week 1 assignment, Bird recognition in the City of Peacetopia (case study).
 
-Building this project is as easy as signing up for a Zooniverse account, filling out a series of web forms, adding some images to make the interface look pretty and uploading your data. Thats it! and it's free.  You can pay it forward by helping scientists and getting involved with [one of the citizen science projects hosted by Zooniverse.](https://www.zooniverse.org/projects)
+Building this project is as easy as signing up for a Zooniverse account, filling out a series of web forms, adding some images to make the interface look pretty and uploading your data. Thats it!.  
 
 ## Project Building ##
 
@@ -112,4 +112,4 @@ I have also built a drawing workflow into the project called "Where and how many
 
 In order to see how this project is set up in the project builder, you will need to have a Zooniverse account.  Then message me with your Zooniverse username and let me know that you would like to access the template.  The best way to do this is by leaving a message in the [Talk forum](https://www.zooniverse.org/projects/dwright04/city-of-peacetopia-ornithophobia-project/talk).  Otherwise, just get stuck into building your own project as the process is very intuitive after a little bit of digging around.  I've tried to structure this tutorial to avoid some of the "gotchas" I see when people try to use the Project builder for the first time.  But if you do run into trouble you can leave me a message in the project forum, or search for answers and ask for help in the [Zooniverse Talk forums](https://www.zooniverse.org/talk) where there is a [board specifically for project building](https://www.zooniverse.org/talk/18).
 
-I hope you found this useful and it comes in handy next time you need to gather some human labels.
+I hope you found this useful and it comes in handy next time you need to gather some human labels. Please also consider helping out scientists and getting involved with [one of the citizen science projects hosted by Zooniverse.](https://www.zooniverse.org/projects)
