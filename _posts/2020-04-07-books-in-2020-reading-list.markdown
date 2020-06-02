@@ -7,7 +7,7 @@ categories: books
 
 # Books I'm reading in 2020 #
 
-*A list of books, in order of reading (most recent last), that I will update as I begin new books*
+*A list of books, in order of reading (most recent last).*
 
 [Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=&tn=Life+3.0%3A+Being+Human+in+the+Age+of+Artificial+Intelligence&isbn=)
 
