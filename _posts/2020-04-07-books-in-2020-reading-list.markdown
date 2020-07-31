@@ -5,7 +5,7 @@ date:   2020-04-07 15:16:00 -0000
 categories: books
 ---
 
-# Books I'm reading in 2020 #
+# My 2020 Book Reading List #
 
 *A list of books, in order of reading (most recent last).*
 
