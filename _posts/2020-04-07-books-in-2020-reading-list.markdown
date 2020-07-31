@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Books I'm reading in 2020"
+title:  "My 2020 Book Reading List"
 date:   2020-04-07 15:16:00 -0000
 categories: books
 ---
