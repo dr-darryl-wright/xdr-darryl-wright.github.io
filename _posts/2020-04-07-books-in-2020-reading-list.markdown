@@ -30,3 +30,15 @@ categories: books
 [Neuromancer - William Gibson](https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=&tn=Neuromancer&isbn=)
 
 [Introduction to Mathematical Philosophy - Bertrand Russell](https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=&tn=Introduction+to+Mathematical+Philosophy&isbn=)
+
+[Mortality - Christopher Hitchens](https://www.abebooks.com/servlet/SearchResults?an=Christopher%20Hitchens&bi=0&bx=off&cm_sp=SearchF-_-Advtab1-_-Results&ds=20&kn=mortality&recentlyadded=all&sortby=17&sts=t)
+
+[Collective Preference and Choice - Shmuel Nitzan](https://www.abebooks.com/servlet/SearchResults?an=Nitzan%2C%20Shmuel&bi=0&bx=off&cm_sp=SearchF-_-Advtab1-_-Results&ds=30&kn=Collective%20Preference%20and%20Choice&recentlyadded=all&sortby=17&sts=t)
+
+[The Simple Path to Wealth: Your road map to financial independence and a rich, free life - J.L. Collins](https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&kn=The%20Simple%20Path%20to%20Wealth%3A%20Your%20road%20map%20to%20financial%20independence%20and%20a%20rich%2C%20free%20life&sts=t)
+
+[The Madness of Crowds: Gender, Race and Identity - Douglas Murray](https://www.abebooks.com/servlet/SearchResults?an=Douglas%20Murray&bi=0&bx=off&cm_sp=SearchF-_-Advtab1-_-Results&ds=30&kn=The%20Madness%20of%20Crowds%3A%20Gender%2C%20Race%20and%20Identity&recentlyadded=all&sortby=17&sts=t)
+
+[Letters to a Young Contrarian - Christopher Hitchens](https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&kn=Letters%20to%20a%20Young%20Contrarian&sts=t)
+
+[How Proust Can Change Your Life - Alain de Botton](https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-TopNavISS-_-Results&kn=how%20proust%20can%20change%20your%20life%20alain%20de%20botton&sts=t)
