@@ -3,6 +3,7 @@ layout: post
 title:  "Machine learning for transient discovery in Pan-STARRS1 difference imaging"
 date:   2024-05-22 11:31:47 -0500
 categories: project
+featured-image: /images/machine-learning-for-transient-discovery-in-Pan-STARRS1-difference-imaging/m_stv292fig1.jpeg
 ---
 
 **In this work we built a machine learning solution to reduce the number of artefacts that required manual from tens of thousands each day to a few hundred. The trade-off was that a few (<10) real detections were mistakenly discarded.**
